@@ -40,14 +40,14 @@ namespace PreventSleep
             this.axWindowsMediaPlayer1.Location = new System.Drawing.Point(12, 12);
             this.axWindowsMediaPlayer1.Name = "axWindowsMediaPlayer1";
             this.axWindowsMediaPlayer1.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("axWindowsMediaPlayer1.OcxState")));
-            this.axWindowsMediaPlayer1.Size = new System.Drawing.Size(256, 211);
+            this.axWindowsMediaPlayer1.Size = new System.Drawing.Size(395, 211);
             this.axWindowsMediaPlayer1.TabIndex = 2;
             // 
             // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(286, 239);
+            this.ClientSize = new System.Drawing.Size(419, 239);
             this.Controls.Add(this.axWindowsMediaPlayer1);
             this.Name = "FrmMain";
             this.Text = "Prevent Stop when Sleep - Wmplayer";
